@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kathi-maker
 - 👀 I’m interested in discovering new things
-- 🌱 I’m currently learning WPF and gRPC
+- 🌱 I’m currently learning Angular
 
 <!---
 Kathi-maker/Kathi-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
