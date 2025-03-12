@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kathi-maker!
+# 👋 Hey, I'm lady-logic!
 
 👨‍💻 Software Developer | 🚀 Tech Enthusiast | 📚 Always Learning  
 💡 Passionate about **clean code**, **solid architecture**, and **agile development**  
