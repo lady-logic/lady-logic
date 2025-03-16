@@ -16,6 +16,7 @@
 📦 **Databases**:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 ![MS SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
 
 🛠 **Tools & DevOps**:  
 🔹 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
