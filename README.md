@@ -1,15 +1,14 @@
-# 👋 Hey, I'm lady-logic!
+# Hey, I'm lady-logic!
 
 👨‍💻 Software Developer | 🚀 Tech Enthusiast | 📚 Always Learning  
 💡 Passionate about **clean code**, **solid architecture**, and **agile development**  
 
-## 🔥 About Me  
-- 🎨 Currently diving into **Angular** & **Web APIs**  
-- 🚀 Goal: Continuously grow and tackle new technical challenges  
-- 🔄 Certified **Scrum Master** & advocate for agile software development  
-- 🛠️ I love experimenting with new ideas and improving existing solutions  
+## About Me  
+- Goal: Continuously grow and tackle new technical challenges  
+- **Certified Scrum Master** & **Certified Professional for Software Architecture (Foundation Level)**
+- I love experimenting with new ideas and improving existing solutions  
 
-## 🚀 Tech Stack  
+## Tech Stack  
 💻 **Frontend**: ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)  
 ⚙️ **Backend**:  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
 
@@ -27,10 +26,7 @@
 🔹 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)  
 🔹 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)  
 
-## 🎯 Current Goals  
+## Current Goals  
 ✅ Gain more experience with APIs  
-✅ Deepen my knowledge in **.NET & software architecture**  
-✅ Work on exciting projects and explore new technologies  
-
----
-*"A little better every day!"* 🚀  
+✅ Deepen my knowledge in **.NET & Modern Software Architecture**  
+ 
