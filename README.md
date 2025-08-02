@@ -1,5 +1,4 @@
 # Hey, I'm lady-logic!
-
 👨‍💻 Software Developer | 🚀 Tech Enthusiast | 📚 Always Learning  
 💡 Passionate about **clean code**, **solid architecture**, and **agile development**  
 
@@ -10,12 +9,18 @@
 
 ## Tech Stack  
 💻 **Frontend**: ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)  
-⚙️ **Backend**:  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
+
+⚙️ **Backend**:  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 
 📦 **Databases**:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 ![MS SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
+
+🚀 **Microservices & Messaging**:  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 ![MassTransit](https://img.shields.io/badge/-MassTransit-FF6B6B?logo=transit&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 
 🛠 **Tools & DevOps**:  
 🔹 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
@@ -29,4 +34,4 @@
 ## Current Goals  
 ✅ Gain more experience with APIs  
 ✅ Deepen my knowledge in **.NET & Modern Software Architecture**  
- 
+✅ Explore **Event-Driven Architecture** and **Microservices Patterns**
